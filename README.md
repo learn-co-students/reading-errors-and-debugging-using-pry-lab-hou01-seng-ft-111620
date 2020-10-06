@@ -1,4 +1,4 @@
-# Debugging with Pry
+quire Pry# Debugging with Pry
 
 ## Learning Goals
 
